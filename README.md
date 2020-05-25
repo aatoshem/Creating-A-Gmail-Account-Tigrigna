@@ -1,4 +1,4 @@
-## ሕዲሽ ጉግል ኣካውንት (ጂሜል) ምምዝጋብ
+## ሓዲሽ ጉግል ኣካውንት (ጂሜል) ምምዝጋብ
 
 Step 1: Click this link [Google Account](https://accounts.google.com/)
 
